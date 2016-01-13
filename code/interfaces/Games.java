@@ -45,3 +45,13 @@ public class Games {
 	}
 
 }
+
+/**Output:
+Checkers move 0
+Checkers move 1
+Checkers move 2
+Chess move 0
+Chess move 1
+Chess move 2
+Chess move 3
+*/
